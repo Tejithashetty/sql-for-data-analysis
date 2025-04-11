@@ -33,5 +33,5 @@ This project contains SQL queries for analyzing a sample eCommerce database.
 ---
 
 ## 📬 Contact
-mail: teamminnie@gmail.com
+mail: team14minne@gmail.com
 linkedin: https://www.linkedin.com/in/tejitha-ch-286656277
